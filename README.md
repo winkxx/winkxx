@@ -1,8 +1,6 @@
 <h2 align="center">👋 欢迎访问我的GitHub</h2>
 <p align="center">
   <a href="https://github.com/eternidad33"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
-  <a href="https://gitee.com/eternidad33"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
-  <a href="https://blog.csdn.net/qq_42907802"><img src="https://img.shields.io/badge/CSDN-cf000e" alt="csdn"></a>
 </p>
 
 <img align='right' src="https://cdn.jsdelivr.net/gh/eternidad33/picbed/img/883711.jpg" width="230">
@@ -22,17 +20,10 @@ Week: 26 February, 2021 - 05 March, 2021
 
 💬 编程语言: 
 Java              9 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.94% 
-XML               3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
+HTML              3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
 Other             3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
-Markdown          3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
+Colab             3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
 Python            2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.99%
-
-🔥 常用编辑器: 
-IntelliJ          19 hrs 25 mins      █████████████████░░░░░░░░   71.44% 
-PyCharmCore       4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
-Word              3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-PyCharm           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
-VS Code           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
 
 💻 操作系统: 
 Windows           27 hrs 11 mins      █████████████████████████   100.0%
@@ -42,25 +33,6 @@ Windows           27 hrs 11 mins      ██████████████
 
 <!--END_SECTION:waka-->
 
-
-
-## 红红火火恍恍惚惚
-
-<img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
-
-<details>
-<summary>GitHub统计信息</summary>
-
-<br/>
-
-> 动态太少，不好意思展示
-> 
-> 下面的GitHub统计信息是来自于[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)项目，里边有[中文文档](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
-
-<a href="https://github.com/eternidad33/eternidad33">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eternidad33&show_icons=true" />
-</a>
-<br/>
 
 ---
 
@@ -81,7 +53,7 @@ Windows           27 hrs 11 mins      ██████████████
 
 </details>
 
-**🙏考研上岸**
+**🙏四级上岸**
 
 ```
                                  _                                  
