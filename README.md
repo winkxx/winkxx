@@ -4,6 +4,7 @@
 </p>
 
 <img align='right' src="https://i.loli.net/2021/03/06/x3FYPtl59pZeRBG.jpg" width="230">
+<img align='right' src="https://i.loli.net/2021/03/06/PFhekIldzpvcTyJ.jpg" width="230">
 
 - 😄**后端** C，C++，Java，Python
 - 😃**前端** HTML，CSS，JavaScript
