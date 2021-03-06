@@ -45,7 +45,7 @@ Windows           27 hrs 11 mins      ██████████████
 
 <br/>
 
-[![eternidad33's contribution graph as a Game of Life](https://github4life.herokuapp.com/eternidad33.gif)](https://github4life.herokuapp.com/eternidad33)
+[![winkxx's contribution graph as a Game of Life](https://i.loli.net/2021/03/06/x3FYPtl59pZeRBG.jpg)](https://i.loli.net/2021/03/06/x3FYPtl59pZeRBG.jpg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winkxx&show_icons=true&theme=onedark)
 
 </details>
