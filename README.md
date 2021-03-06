@@ -3,7 +3,6 @@
   <a href="https://github.com/eternidad33"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
 </p>
 
-<img align='right' src="https://i.loli.net/2021/03/06/x3FYPtl59pZeRBG.jpg" width="230">
 <img align='right' src="https://i.loli.net/2021/03/06/PFhekIldzpvcTyJ.jpg" width="230">
 
 - 😄**后端** C，C++，Java，Python
