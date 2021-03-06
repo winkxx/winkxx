@@ -41,10 +41,6 @@ Windows           27 hrs 11 mins      ██████████████
 <a href="https://github.com/winkxx/winkxx">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=winkxx&repo=winkxx" />
 </a>    
-<a href="https://github.com/winkxx/Rclone-Actions">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=winkxx&Rclone-Actions" />
-</a>
-
 <br/>
 
 <br/>
@@ -53,7 +49,7 @@ Windows           27 hrs 11 mins      ██████████████
 
 </details>
 
-**🙏四级上岸**
+**🙏知世故不世故**
 
 ```
                                  _                                  
