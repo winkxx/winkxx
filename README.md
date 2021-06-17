@@ -28,10 +28,6 @@
 ### 我的Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winkxx&show_icons=true)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winkxx)](wcyhttps://github.com/anuraghazra/github-readme-stats)
 ---
-### 推荐仓库
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winkxx&repo=winkxx)]()
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=winkxx&repo=plz-download)]()
 
 
 **🙏知世故不世故**
